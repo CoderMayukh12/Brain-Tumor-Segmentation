@@ -1,0 +1,8 @@
+Flask==2.3.3
+flask-cors==4.0.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+Pillow==10.3.0
+tensorflow==2.15.0
+scipy==1.13.1
+gunicorn==21.2.0
